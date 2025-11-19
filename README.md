@@ -22,11 +22,8 @@ This tool makes finding specific objects inside large datasets simple, fast, and
 # Screenshots
 <img width="1919" height="1079" alt="Screenshot 2025-11-19 082709" src="https://github.com/user-attachments/assets/ec9cd121-c6a3-4a0d-8851-87ad6b920c56" />
 
+<br><img width="1912" height="1079" alt="Screenshot 2025-11-19 082731" src="https://github.com/user-attachments/assets/5da4ec83-09cb-4108-8905-54fa1d5c3083" /><br>
 
-<img width="1912" height="1079" alt="Screenshot 2025-11-19 082731" src="https://github.com/user-attachments/assets/5da4ec83-09cb-4108-8905-54fa1d5c3083" />
+<br><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b07cd323-135e-419a-a6f0-41c8a98fcd86" /><br>
 
-
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b07cd323-135e-419a-a6f0-41c8a98fcd86" />
-
-
-<img width="1902" height="1079" alt="image" src="https://github.com/user-attachments/assets/b600391d-28ad-4de2-ae3a-294b4d36025a" />
+<br><img width="1902" height="1079" alt="image" src="https://github.com/user-attachments/assets/b600391d-28ad-4de2-ae3a-294b4d36025a" /><br>
