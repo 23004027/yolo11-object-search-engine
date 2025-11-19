@@ -1,6 +1,6 @@
 # yolo11-object-search-engine
 
-# YOLOv11 Image Search is a Streamlit-based computer vision search engine built on top of YOLOv11m.
+## YOLOv11 Image Search is a Streamlit-based computer vision search engine built on top of YOLOv11m.
 # The app allows users to:
 
  * Run object detection on a directory of images using pretrained yolo11m.pt weights
