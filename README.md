@@ -27,3 +27,6 @@ This tool makes finding specific objects inside large datasets simple, fast, and
 <br><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b07cd323-135e-419a-a6f0-41c8a98fcd86" /><br>
 
 <br><img width="1902" height="1079" alt="image" src="https://github.com/user-attachments/assets/b600391d-28ad-4de2-ae3a-294b4d36025a" /><br>
+
+# Conclusion:
+The YOLOv11 Image Search project demonstrates how powerful computer vision models can transform large image collections into searchable, structured datasets. By combining YOLOv11m object detection with an intuitive Streamlit interface, this tool makes it easy to detect, filter, and retrieve images based on specific objects and counts. Whether for dataset cleaning, visual search, or analysis, this project delivers a fast, flexible, and user-friendly solution.
